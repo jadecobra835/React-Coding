@@ -1,3 +1,13 @@
-# Skeleton React starter Project
+# React Prop State this Deep Dive
 
-> Provided for the students of the [Bottega Code School](https://bottega.tech/)
+## Topics Covered
+
+- Props
+- React Tools
+- State
+- `this`
+- Functional vs Class components
+- Component based architecture
+- Code organization
+
+> Provided for the students of the [Bottega Code School](https://https://bottega.tech/)
