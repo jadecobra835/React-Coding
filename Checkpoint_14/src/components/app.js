@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Page from './page-component';
 import FuncPage from './functional';
+import TernaryTest from './Checkpoint17';
 
 export default class App extends Component {
   constructor() {
@@ -35,6 +36,8 @@ export default class App extends Component {
         <h3>
           <FuncPage title={this.changeState}/>
         </h3>
+
+        <TernaryTest />
       </div>
     );
   }
